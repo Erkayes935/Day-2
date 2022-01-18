@@ -1,4 +1,4 @@
 Nama                :   Refia
-Bahasa Pemrograman  :   Python
+Bahasa Pemrograman  :   Python,C#
 Stack               :   BE Web
 Project             :   ML-Agent
